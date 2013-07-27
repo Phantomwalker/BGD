@@ -1,0 +1,10 @@
+Temp
+Library
+Publish
+obj
+*.suo
+*.user
+*.userprefs
+*.sln
+*.csproj
+*.pidb
